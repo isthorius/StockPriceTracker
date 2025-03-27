@@ -21,7 +21,7 @@ A Python application that tracks stock prices in real-time using Yahoo Finance d
 1. Ensure you have Python 3.8+ installed
 2. Install required packages:
    ```bash
-   pip install yfinance matplotlib pandas
+   pip install -r requirements.txt
    ```
 
 ## 🚀 Usage
@@ -36,14 +36,6 @@ python stock_tracker.py
 3. **Refresh Interval**: Set auto-refresh time in seconds (10-3600)
 4. **Start Tracking**: Enable auto-refresh of data
 5. **Fetch Data**: Manually refresh current data
-
-## 📂 File Structure
-```
-stock_tracker/
-├── stock_tracker.py  # Main application file
-├── README.md         # This documentation
-└── requirements.txt  # Dependency list
-```
 
 ## ⚙️ Technical Details
 - Uses `yfinance` library for stock data
