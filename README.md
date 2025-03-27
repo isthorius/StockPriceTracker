@@ -1,7 +1,7 @@
 ## 📌 Overview
 A Python application that tracks stock prices in real-time using Yahoo Finance data, featuring a Tkinter GUI with interactive charts, historical data tables, and key financial metrics.
 
-![Stock Tracker Screenshot](images/demo.png) *(example screenshot placeholder)*
+![Stock Tracker Screenshot](images/demo.png)
 
 ## ✨ Features
 - **Real-time stock data** from Yahoo Finance (no API key required)
